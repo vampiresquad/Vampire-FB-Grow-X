@@ -1,1 +1,7 @@
-
+{
+  "hacking": ["hacking", "ethicalhacking", "cybersecurity", "linux", "hacktheplanet"],
+  "tech": ["technology", "innovation", "programming", "opensource"],
+  "motivation": ["motivation", "success", "mindset", "focus"],
+  "coding": ["coderlife", "python", "developer", "code", "programmer"],
+  "gaming": ["gamer", "gaminglife", "pubg", "fifa", "esports"]
+}
